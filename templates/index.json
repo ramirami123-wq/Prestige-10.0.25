@@ -15,6 +15,7 @@
         "slide-2": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/Our-Best-Organizing-Tips-for-the-Kitchen-5.png",
             "subheading": "",
             "title": "Everything Your Kitchen Needs",
             "mobile_text_position": "place-self-center text-center",
@@ -97,16 +98,28 @@
           "settings": {
             "content": "<p>Whether you're meal prepping or hosting dinner, our essentials are built to perform. Durable, stylish, and made for real life.</p>"
           }
+        },
+        "button_9RD8mA": {
+          "type": "button",
+          "settings": {
+            "style": "solid",
+            "text": "Shop Now",
+            "url": "shopify://collections/all",
+            "background": "",
+            "text_color": ""
+          }
         }
       },
       "block_order": [
         "heading_gGETRC",
-        "richtext_AHHmbK"
+        "richtext_AHHmbK",
+        "button_9RD8mA"
       ],
       "name": "t:sections.image_with_text.presets.image_with_text.name",
       "settings": {
         "color_scheme": "",
         "separate_section_with_border": true,
+        "image": "shopify://shop_images/ChatGPT_Image_Jul_5_2025_09_15_23_PM.png",
         "reveal_on_scroll": true,
         "image_position": "start",
         "content_width": "sm",
