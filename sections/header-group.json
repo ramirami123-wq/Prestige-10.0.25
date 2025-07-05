@@ -17,7 +17,7 @@
         "message-1": {
           "type": "message",
           "settings": {
-            "text": "Announce something here"
+            "text": "FREE DELIVERY FOR ORDERS ABOVE 50$"
           }
         }
       },
@@ -43,7 +43,7 @@
         "reduce_padding": false,
         "logo": "shopify://shop_images/APPLE_WATCH_BANDS__10_-removebg-preview_a0a8db8c-3c0c-4214-815e-6aea257f9f6e.png",
         "logo_max_width": 70,
-        "logo_mobile_max_width": 145,
+        "logo_mobile_max_width": 65,
         "menu": "main-menu",
         "sidebar_menu": "",
         "menu_open_trigger": "hover",
