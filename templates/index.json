@@ -61,7 +61,7 @@
         "collection-1": {
           "type": "collection",
           "settings": {
-            "collection": "frontpage",
+            "collection": "our-products",
             "products_count": 8,
             "title": "",
             "link_url": "",
