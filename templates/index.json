@@ -248,12 +248,85 @@
         "remove_vertical_spacing": false,
         "remove_horizontal_spacing": false
       }
+    },
+    "collection_list_XRagmj": {
+      "type": "collection-list",
+      "blocks": {
+        "collection_YQJKKB": {
+          "type": "collection",
+          "settings": {
+            "color_scheme": "",
+            "collection": "service-dinner-sets",
+            "expand_collection": false,
+            "content_position": "place-self-end-start text-start",
+            "subheading": "Service Dinner Sets",
+            "title": "",
+            "button_text": "View products",
+            "button_link": "",
+            "button_style": "solid",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "collection_iY6D43": {
+          "type": "collection",
+          "settings": {
+            "color_scheme": "",
+            "collection": "unique-mirror-with-frame-design",
+            "expand_collection": false,
+            "content_position": "place-self-end-start text-start",
+            "subheading": "Unique Mirror With Frame Design",
+            "title": "",
+            "button_text": "View products",
+            "button_link": "",
+            "button_style": "solid",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "collection_a6yEdt": {
+          "type": "collection",
+          "settings": {
+            "color_scheme": "",
+            "collection": "bamboo-c",
+            "expand_collection": false,
+            "content_position": "place-self-end-start text-start",
+            "subheading": "Natural Bamboo Wood Trays and Organizers",
+            "title": "",
+            "button_text": "View products",
+            "button_link": "",
+            "button_style": "solid",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        }
+      },
+      "block_order": [
+        "collection_YQJKKB",
+        "collection_iY6D43",
+        "collection_a6yEdt"
+      ],
+      "name": "t:sections.collection_list.presets.collection_list.name",
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "image_size": "auto",
+        "show_text_outside": false,
+        "space_items": true,
+        "stack_collections": true,
+        "collections_per_row_mobile": "1",
+        "collections_per_row_desktop": 3,
+        "subheading": "Top Collections",
+        "title": "",
+        "content": ""
+      }
     }
   },
   "order": [
     "slideshow",
     "collection_list_9K9w8g",
     "featured-collections",
+    "collection_list_XRagmj",
     "image_with_text_aWYbPE",
     "1751739578f21dece5"
   ]
